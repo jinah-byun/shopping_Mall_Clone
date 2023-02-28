@@ -1,2 +1,2 @@
-# shopping_Mall_Clone
+# shoppingMall_Clone
 livecode
