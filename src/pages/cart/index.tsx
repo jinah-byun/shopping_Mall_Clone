@@ -1,3 +1,3 @@
-const ProductList = () => <div>상품목록</div>;
+const Cart = () => <div>장바구니</div>;
 
-export default ProductList;
+export default Cart;

@@ -1,1 +1,15 @@
 @import "/src/scss/product.scss";
+@import "/src/scss/cart.scss";
+
+#root {
+  max-width: 900px;
+}
+
+.gnb {
+  ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+}

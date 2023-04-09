@@ -2,7 +2,7 @@ import React from "react";
 import Globallayout from "./pages/_layout";
 
 import Index from "./pages/index";
-import CartIndex from "./pages/index";
+import CartIndex from "./pages/cart/index";
 import PaymentIndex from "./pages/payment/index";
 import ProductsIndex from "./pages/products/idIndex";
 import ProductsId from "./pages/products/[id]";
